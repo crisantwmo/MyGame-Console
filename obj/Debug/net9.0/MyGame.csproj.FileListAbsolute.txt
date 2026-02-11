@@ -1,0 +1,14 @@
+/Users/keny/ConsoleGame/MyGame/bin/Debug/net9.0/MyGame
+/Users/keny/ConsoleGame/MyGame/bin/Debug/net9.0/MyGame.deps.json
+/Users/keny/ConsoleGame/MyGame/bin/Debug/net9.0/MyGame.runtimeconfig.json
+/Users/keny/ConsoleGame/MyGame/bin/Debug/net9.0/MyGame.dll
+/Users/keny/ConsoleGame/MyGame/bin/Debug/net9.0/MyGame.pdb
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/MyGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/MyGame.AssemblyInfoInputs.cache
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/MyGame.AssemblyInfo.cs
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/MyGame.csproj.CoreCompileInputs.cache
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/MyGame.dll
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/refint/MyGame.dll
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/MyGame.pdb
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/MyGame.genruntimeconfig.cache
+/Users/keny/ConsoleGame/MyGame/obj/Debug/net9.0/ref/MyGame.dll
